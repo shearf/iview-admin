@@ -15,7 +15,7 @@
           <div class="join-page-other">
             <Button to="https://zhuanlan.zhihu.com/feview" target="_blank" size="large">
               <img src="../assets/images/icon-social-zhihu.svg" class="join-page-other-icon">
-              iView 知乎专栏
+              ViewUI 知乎专栏
             </Button>
             <Button to="https://juejin.im/user/56fe494539b0570054f2e032" target="_blank" size="large">
               <img src="../assets/images/icon-social-juejin.svg" class="join-page-other-icon">

@@ -137,7 +137,7 @@ export default {
   },
   /**
    * Events
-   * @on-start-edit 返回值 {Object} ：同iview中render函数中的params对象 { row, index, column }
+   * @on-start-edit 返回值 {Object} ：同view-ui中render函数中的params对象 { row, index, column }
    * @on-cancel-edit 返回值 {Object} 同上
    * @on-save-edit 返回值 {Object} ：除上面三个参数外，还有一个value: 修改后的数据
    */

@@ -1,6 +1,6 @@
 <template>
   <Card>
-    <h3 style="padding: 10px 0;">drag-drawer组件是对iview的drawer组件的封装，在支持drawer所有api的基础上，支持可拖动和footer底部插槽</h3>
+    <h3 style="padding: 10px 0;">drag-drawer组件是对view-ui的drawer组件的封装，在支持drawer所有api的基础上，支持可拖动和footer底部插槽</h3>
     <div style="padding: 10px 0">
       <b>
         方向
